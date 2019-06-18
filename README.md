@@ -1,6 +1,6 @@
 # Fractal Explorer
 
-![app](https://github.com/csaddison/Fractal-Explorer/blob/master/Screenshot%20(21).png "The app in action")
+![Fractal-app](https://github.com/csaddison/Fractal-Explorer/blob/master/images/Screenshot%20(21).png "The app in action")
 
 ### Julia Sets
 
