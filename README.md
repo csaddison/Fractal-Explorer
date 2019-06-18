@@ -1,5 +1,4 @@
 ## Fractal Explorer
-*****
 
 ### Julia Sets
 
@@ -13,4 +12,10 @@ Sets whose value of _c_ lies within the [Mandlebrot set](http://mathworld.wolfra
 
 This was my first attempt at creating a packaged GUI for any of my projects, and it made me realize how slow creating a desktop executable is. Additionally, the fractal rendering system currently uses nested for-loops to generate the fractal, which is slow and resistant to changes in window size or zoom. Finding a way to utilize iterative vectorized functions and filter() would dramatically reduce the rendering time which would allow for a dynamic window size or zoom level.
 
-Additionally I'd like to add
+Additionally I'd like to add:
+- A save dialog to root window
+- A label option on output .png for denoting what _c_-value is used
+- Mandlebrot set compatability
+- Julia set z-power setting (quadratic, cubic, ect.)
+
+As well as eventually turn the executable into a webapp, although I'd need to learn JavaScript first.
